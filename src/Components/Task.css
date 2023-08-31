@@ -1,0 +1,10 @@
+/* Add these styles to your CSS file */
+.done {
+  text-decoration: line-through; /* Strike through the text */
+  color: #888888; /* Change text color for done tasks */
+}
+
+.undone {
+  text-decoration: none; /* Remove the strike-through effect */
+  color: #000000; /* Reset text color for undone tasks */
+}
